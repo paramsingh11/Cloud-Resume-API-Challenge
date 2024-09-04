@@ -709,6 +709,10 @@ input, select, textarea {
 				#header nav a span {
 					display: none;
 				}
+				
+				#header h3:hover, #header p:hover {
+					color: #39ff14;  /* Green color on hover */
+				}
 
 /* Footer */
 
