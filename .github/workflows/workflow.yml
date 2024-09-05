@@ -9,7 +9,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v5  # The latest version, Node.js 20 will be used by default
+    - uses: actions/checkout@v4  # The latest version, Node.js 20 will be used by default
 
     - name: S3 Sync
       uses: jakejarvis/s3-sync-action@v0.5.1  # Use a stable and updated version
