@@ -1,4 +1,4 @@
-#AWS Cloud Resume Project - https://cloudresumechallenge.dev/docs/the-challenge/aws/
+# AWS Cloud Resume Project - https://cloudresumechallenge.dev/docs/the-challenge/aws/
 
 AWS Cloud Resume Challenge
 
