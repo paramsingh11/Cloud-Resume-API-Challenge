@@ -1,26 +1,5 @@
-# AWS Cloud Resume Project - https://cloudresumechallenge.dev/docs/the-challenge/aws/
-
-AWS Cloud Resume Challenge
-
-
-
-These are the steps that are part of the challenge:
-
-    Certification
-    HTML
-    CSS
-    Static Website
-    HTTPS
-    DNS
-    Javascript
-    Database
-    API
-    Python
-    Tests
-    Infrastructure as Code
-    Source Control
-    CI/CD (Back end)
-    CI/CD (Front end)
-    Blog post
+# AWS Cloud Resume Challenge
+https://cloudresumechallenge.dev/docs/the-challenge/aws
+# Workflow
 
 
